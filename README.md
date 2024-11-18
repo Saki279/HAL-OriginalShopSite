@@ -1,5 +1,3 @@
-# HAL-OriginalShopSite
+## 使用技術一覧
 
-HAL1年次に作成したオリジナルショップサイトです。
-
-HAL3校合同学内コンテストで構成力賞を受賞しました。
+<img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic">
