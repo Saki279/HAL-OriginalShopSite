@@ -1,3 +1,3 @@
 ## 使用技術一覧
 
-<img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic">
+<img src="https://img.shields.io/badge/-{HTML}-{#000}.svg?logo=next.js&style={html5}&logoColor={#E34F26}">
